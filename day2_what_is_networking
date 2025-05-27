@@ -1,0 +1,12 @@
+# Day 2 – What is Networking?
+
+## Key Concepts:
+- A network is a group of devices (computers, servers, phones) that share resources and information.
+- Basic network components: switches, routers, firewalls, access points.
+- A network allows communication via protocols (rules), such as TCP/IP.
+- Data is sent in packets through different layers (explained later in OSI Model).
+
+## Important Takeaways:
+- IP addresses identify devices on a network.
+- DNS translates domain names into IP addresses (e.g., google.com → 142.250.190.78).
+- Port numbers help identify specific services on a device (e.g., port 80 = HTTP).
